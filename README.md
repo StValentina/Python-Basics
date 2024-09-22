@@ -1,2 +1,2 @@
-Solutions to additional (exam) exercises given in the course Python Basics SoftUni.
+Solutions to additional (exam) exercises given in the course Python Basics SoftUni 05.2024.
 Eny file is .py
